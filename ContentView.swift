@@ -1,10 +1,6 @@
 //
 //  ContentView.swift
 //  ConvertThatTime
-//
-//  Created by Alison Co on 2020-08-20.
-//  Copyright © 2020 Alison Co. All rights reserved.
-//
 
 import SwiftUI
 
